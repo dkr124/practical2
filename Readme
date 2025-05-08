@@ -1,0 +1,15 @@
+Description : 
+
+Registration 
+first input = name 
+second input = email
+third input = password
+
+Login
+first input = email
+second input = password
+
+Add style to the input boxes
+input{
+ /*Your css code*/
+}
